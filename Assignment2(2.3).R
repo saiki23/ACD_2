@@ -1,0 +1,2 @@
+#Variable Binnin using R
+
